@@ -1,4 +1,3 @@
 tkm-ninja
 
 
-init
